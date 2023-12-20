@@ -1,7 +1,4 @@
 
-![ezgif com-resize (2)~2](https://user-images.githubusercontent.com/65341461/219281170-4cde7734-6708-440b-b0df-ca152850ad0a.gif)
-
-
 <h1 align="center">Hi 👋, I'm Omega Joctan Msigwa</h1>
 <h3 align="center">A software developer and ML expert from Tanzania</h3>
 
